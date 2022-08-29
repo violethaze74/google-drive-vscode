@@ -198,7 +198,7 @@
 	"dependencies": {
 		"googleapis": "52.1.0",
 		"keytar": "6.0.1",
-		"mime-types": "2.1.27",
+		"mime-types": "2.1.35",
 		"archiver": "4.0.2"
 	},
 	"__metadata": {
